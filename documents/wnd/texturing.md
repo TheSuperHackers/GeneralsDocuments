@@ -77,10 +77,11 @@ You reference textures in WND files using the `DRAWDATA` tags, such as `ENABLEDD
 
 **Important:** The order and position (or "slot") of each texture within the `DRAWDATA` tag is crucial. The game expects the textures to be in a specific order, and placing them in the wrong slots can lead to incorrect rendering or even cause the game to crash.
 
-The correct order and slots for textures can be determined by examining the code examples for each specific control. The textures must be in the order of **Top-Left, Top-Center, Top-Right, Center-Left, Center, Center-Right, Bottom-Left, Bottom-Center, Bottom-Right**. Even if some parts of the control don't have a texture and need to use `NoImage`, you must still include the `NoImage` entry in the correct slot.
+The correct order and slots for textures can be determined by examining the code examples for each specific control. Even if some parts of the control don't have a texture and need to use `NoImage`, you must still include the `NoImage` entry in the correct slot.
 
 **Example:**
 
+<smal>Note that colors whose alpha value is 0 are not actually applied.</small>
 ```nasm
 ENABLEDDRAWDATA = IMAGE: LoadingBar_R, COLOR: 255 0 0 0, BORDERCOLOR: 255 128 128 0,
                   IMAGE: LoadingBar_L, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
