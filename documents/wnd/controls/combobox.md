@@ -1,9 +1,11 @@
 # ComboBox Control
-The **ComboBox** control is used for creating a dropdown list. You can define the position, size, and appearance of the <b>ComboBox</b>.
+The **ComboBox** control is used for creating a dropdown list. You can define the position, size,
+and appearance of the <b>ComboBox</b>.
 
 ## Available tags
 In addition to the [default control tags](user.md), the following tags are available.
-- The control does not have a `TEXT` tag. Unlike controls such as checkboxes, which include a text label, this control is self-contained and does not display or use a text label.
+- The control does not have a `TEXT` tag. Unlike controls such as checkboxes, which include a text label,
+this control is self-contained and does not display or use a text label.
 
 | Tag                                      | Description                                                                  |
 |------------------------------------------|------------------------------------------------------------------------------|
@@ -37,11 +39,14 @@ The following section list the default values and available textures for each ta
 
 ### COMBOBOXDATA
 ### COMBOBOXDATA
-- **ISEDITABLE**: Defines whether the combobox is editable. 0 = non-editable (only dropdown selection allowed), 1 = editable (user can type in the field).
+- **ISEDITABLE**: Defines whether the combobox is editable. 
+                  0 = non-editable (only dropdown selection allowed), 1 = editable (user can type in the field).
 - **MAXCHARS**: The maximum number of characters allowed in the edit field when the combobox is editable (e.g., 16).
 - **MAXDISPLAY**: The maximum number of items to display at once in the dropdown list without scrolling (e.g., 2).
-- **ASCIIONLY**:  Defines if only ASCII characters are allowed in the edit field: 0 = allows non-ASCII characters, 1 = only ASCII.
-- **LETTERSANDNUMBERS**:  Defines if only letters and numbers are allowed in the edit field: 0 = allows all characters, 1 = allows only letters and numbers.
+- **ASCIIONLY**:  Defines if only ASCII characters are allowed in the edit field:
+                  0 = allows non-ASCII characters, 1 = only ASCII.
+- **LETTERSANDNUMBERS**:  Defines if only letters and numbers are allowed in the edit field:
+                          0 = allows all characters, 1 = allows only letters and numbers.
 
 ### ENABLEDDRAWDATA, DISABLEDDRAWDATA, HILITEDRAWDATA
 - NoImage / NoImage / ListBoxHiliteSelectedItemLeftEnd
@@ -85,7 +90,9 @@ The following section list the default values and available textures for each ta
    It is currently not possible to change the color of the text (for list items). By default, the text color is white.
 
 2. **Clicking items outside container boundaries:**  
-   If the ComboBox is inside a window container and the list extends beyond the window's boundaries, it is not possible to click on items that are outside of the visible area of the container. This may cause issues when interacting with the ComboBox.
+   If the ComboBox is inside a window container and the list extends beyond the window's boundaries,
+   it is not possible to click on items that are outside of the visible area of the container.
+   This may cause issues when interacting with the ComboBox.
 
 ## Example
 Here example from IP address ComboBox in the `OptionsMenu.wnd` file:

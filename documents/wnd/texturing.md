@@ -14,9 +14,9 @@ you can find the texture files in the `Data\Art\Textures` directory.
 
 ![Description of the image](../wnd/SCSmShellUserInterface512_001.tga.png)
 
-The main texture file used for the game's UI is `SCSmShellUserInterface512_001.tga`. This file contains a large number
-of textures, packed together into a single image file. The dimensions of this texture are typically 512x512 pixels, but
-other sizes might be used for other files.
+The main texture file used for the game's UI is `SCSmShellUserInterface512_001.tga`.
+This file contains a large number of textures, packed together into a single image file.
+The dimensions of this texture are typically 512x512 pixels, butother sizes might be used for other files.
 
 ## Mapping Textures
 
@@ -73,11 +73,17 @@ In this example:
 
 ## Using Textures in WND Files
 
-You reference textures in WND files using the `DRAWDATA` tags, such as `ENABLEDDRAWDATA`, `DISABLEDDRAWDATA`, and `HILITEDRAWDATA`. Each `DRAWDATA` tag consists of a sequence of **exactly 9 entries**, each defining how a specific part of the control's texture should be rendered.
+You reference textures in WND files using the `DRAWDATA` tags, such as `ENABLEDDRAWDATA`, `DISABLEDDRAWDATA`,
+and `HILITEDRAWDATA`. Each `DRAWDATA` tag consists of a sequence of **exactly 9 entries**,
+each defining how a specific part of the control's texture should be rendered.
 
-**Important:** The order and position (or "slot") of each texture within the `DRAWDATA` tag is crucial. The game expects the textures to be in a specific order, and placing them in the wrong slots can lead to incorrect rendering or even cause the game to crash.
+**Important:** The order and position (or "slot") of each texture within the `DRAWDATA` tag is crucial.
+The game expects the textures to be in a specific order, and placing them in the wrong slots can lead to incorrect
+rendering or even cause the game to crash.
 
-The correct order and slots for textures can be determined by examining the code examples for each specific control. Even if some parts of the control don't have a texture and need to use `NoImage`, you must still include the `NoImage` entry in the correct slot.
+The correct order and slots for textures can be determined by examining the code examples for each specific control.
+Even if some parts of the control don't have a texture and need to use `NoImage`,
+you must still include the `NoImage` entry in the correct slot.
 
 **Example:**
 
@@ -95,11 +101,15 @@ ENABLEDDRAWDATA = IMAGE: LoadingBar_R, COLOR: 255 0 0 0, BORDERCOLOR: 255 128 12
 ```
 
 Here, `LoadingBar_R`, `LoadingBar_L` and other are the names of textures defined in the
-`SCSmShellUserInterface512.ini` file. The `NoImage` entries must still be included in their correct slots, even if there is no specific texture for that part of the control.
+`SCSmShellUserInterface512.ini` file. The `NoImage` entries must still be included in their correct slots,
+even if there is no specific texture for that part of the control.
 
-**Important:** Each control has it's own way of setting up `DRAWDATA`, for example,  a `LoadingBar_Progress` must have the progress bar texture in slot 7, so if you try to use that slot for anything else, the progress bar will not be shown.
+**Important:** Each control has it's own way of setting up `DRAWDATA`,
+for example,  a `LoadingBar_Progress` must have the progress bar texture in slot 7,
+so if you try to use that slot for anything else, the progress bar will not be shown.
 
-It's important to use the example for each specific control and keep the textures on the exact slot, so the rendering will be correct, or you may cause the game to crash.
+It's important to use the example for each specific control and keep the textures on the exact slot,
+so the rendering will be correct, or you may cause the game to crash.
 ## Creating and Modifying Textures
 
 You can create new textures or modify existing ones by editing the `.tga` files and the corresponding INI mapping files.

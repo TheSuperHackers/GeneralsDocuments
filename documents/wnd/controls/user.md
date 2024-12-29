@@ -1,19 +1,26 @@
 # USER Control
 
-The **USER** control is the default control type, used for multiple purposes. It can serve as a container or group for other controls, as well as a tool for drawing rectangular shapes or lines by defining their position. Other controls also use the tags defined for the **USER** control, in addition to their own specific tags.
+The **USER** control is the default control type, used for multiple purposes.
+It can serve as a container or group for other controls, as well as a tool for drawing rectangular shapes or
+lines by defining their position. Other controls also use the tags defined for the **USER** control,
+in addition to their own specific tags.
 
 ## Purposes of the Control:
 1. **Container/Group**:  
-   The **USER** control can act as a container, holding and organizing other controls. This allows for efficient layout and management of multiple elements on the screen.
+   The **USER** control can act as a container, holding and organizing other controls.
+   This allows for efficient layout and management of multiple elements on the screen.
 
 2. **Drawing Rectangles or Lines**:  
-   It can also be used to draw rectangular shapes or lines by specifying the position and dimensions, making it useful for creating visual boundaries or shapes within the UI.
+   It can also be used to draw rectangular shapes or lines by specifying the position and dimensions,
+   making it useful for creating visual boundaries or shapes within the UI.
 
 ### Opening and Closing a Control:
 
 Each control is opened with the keyword `WINDOW` and closed with the keyword `END`.
 
-For the **USER** control, when it serves as a container (group), it can contain other controls as children. Each child control is preceded by the keyword `CHILD`, and after all the children have been defined, the keyword `ENDALLCHILDREN` should be used to close the group of children and return to the main control.
+For the **USER** control, when it serves as a container (group), it can contain other controls as children.
+Each child control is preceded by the keyword `CHILD`, and after all the children have been defined,
+the keyword `ENDALLCHILDREN` should be used to close the group of children and return to the main control.
 
 #### Example with Children:
 ```nasm

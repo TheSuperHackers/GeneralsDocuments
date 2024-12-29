@@ -1,7 +1,7 @@
 # EntryField Control
 
-The **EntryField** control is used for creating single-line text input fields where users can enter text. You can define
-the position, size, and appearance of the entry field, as well as set various input restrictions.
+The **EntryField** control is used for creating single-line text input fields where users can enter text.
+You can define the position, size, and appearance of the entry field, as well as set various input restrictions.
 
 ## Available Tags
 
@@ -20,14 +20,14 @@ The following section list the default values and available textures for each ta
 ### TEXTENTRYDATA
 
 * `MAXLEN`: An integer that defines the maximum length of the input text. (e.g. `64`)
-* `SECRETTEXT`: A Boolean value that defines if input text should be hidden. (`0` = normal, `1` = hidden, displayed as
-  asterisks).
-* `NUMERICALONLY`: A Boolean value that defines if the entry field allows only numbers. (`0` = allows all characters,
-  `1` = only numbers).
-* `ALPHANUMERICALONLY`: A Boolean value that defines if the entry field allows only letters and numbers. (`0` = allows
-  all characters, `1` = only letters and numbers).
-* `ASCIIONLY`: A Boolean value that defines if the entry field allows only ASCII characters. (`0` = allows non-ASCII,
-  `1` = only ASCII).
+* `SECRETTEXT`: A Boolean value that defines if input text should be hidden.
+                (`0` = normal, `1` = hidden, displayed as asterisks).
+* `NUMERICALONLY`: A Boolean value that defines if the entry field allows only numbers.
+                   (`0` = allows all characters, `1` = only numbers).
+* `ALPHANUMERICALONLY`: A Boolean value that defines if the entry field allows only letters and numbers.
+                        (`0` = allows all characters, `1` = only letters and numbers).
+* `ASCIIONLY`: A Boolean value that defines if the entry field allows only ASCII characters.
+               (`0` = allows non-ASCII, `1` = only ASCII).
 
 ### ENABLEDDRAWDATA
 
