@@ -8,6 +8,11 @@ Textures are used to provide the visual appearance of various UI elements, such 
 Generals uses `.tga` (Targa) files to store textures. These files are often large images that contain multiple smaller
 images, each used for a different UI element.
 
+**Note:**  While `.tga` was the original format, in Patch 1.04p development, support has been added for formats
+ `.psd` and `.tiff` formats. These newer formats offer advantages such as layer support, which simplifies the texture
+editing process. Additionally, you can also use `.dds` (DirectDraw Surface) files, specifically in DXT1 or
+DXT5 formats, and reference them within the game's `.wnd` files.
+
 ### `SCSmShellUserInterface512_001.tga`
 
 you can find the texture files in the `Data\Art\Textures` directory.
@@ -110,6 +115,7 @@ so if you try to use that slot for anything else, the progress bar will not be s
 
 It's important to use the example for each specific control and keep the textures on the exact slot,
 so the rendering will be correct, or you may cause the game to crash.
+
 ## Creating and Modifying Textures
 
 You can create new textures or modify existing ones by editing the `.tga` files and the corresponding INI mapping files.
@@ -121,12 +127,15 @@ You can create new textures or modify existing ones by editing the `.tga` files 
       Photoshop, GIMP).
     * Add or modify the textures as needed.
     * Make sure the new textures do not overlap with existing ones.
+    * **Note:** While TGA has been the traditional format, for Patch 1.04p development, support for formats
+      like PSD or TIFF has been added. These formats allow saving layers and greatly simplify editing.
 2. **Update the Mapping INI File:**
     * Open the corresponding INI file (`SCSmShellUserInterface512.ini`).
-    * For each new texture, create a new `MappedImage` entry, as shown above, using unique `TextureName`, the correct
-      filename, `TextureWidth` and `TextureHeight` and the precise coordinates (`Coords`) of the new texture within the
-      edited TGA file.
+    * For each new texture, create a new `MappedImage` entry, as shown above, using a unique `TextureName`,
+      the correct filename, `TextureWidth`, `TextureHeight` and the precise coordinates
+      (`Coords`) of the new texture within the edited TGA file.
     * If you modified an existing texture, update its `Coords` values accordingly.
+    * **Note:** It is also possible to use DDS files in DXT1 or DXT5 formats and reference them in the WND file.
 
 3. **Test Your Changes:**
     * Save both the edited TGA and INI files.
@@ -134,11 +143,12 @@ You can create new textures or modify existing ones by editing the `.tga` files 
 
 ### Important Notes
 
-* **Coordinate Precision**: Be accurate when recording the texture coordinates in the INI file.
-* **Texture Overlap**: Avoid having textures that overlap in the TGA file.
-* **Backup:** Always back up the original files before editing.
-* **TGA Format**: Save your images as a 32 bit uncompressed TGA file.
-
+* **Coordinate Precision:** Be accurate when recording the texture coordinates in the INI file.
+* **Texture Overlap:** Avoid having textures that overlap in the TGA file.
+* **Backup (Optional):** If you are using Git or a similar version control system, a backup is not necessary.
+  However, if you are not using such a system, it's recommended to always back up the original files before editing.
+* **DDS:** Consider using DDS files in DXT1 or DXT5 formats for textures, which can be referenced in the WND files.
+* **TGA Format:** If you choose to use the TGA format, save your images as a 32-bit uncompressed TGA file.
 ## See Also
 
 * [Controls](../Controls.md)
