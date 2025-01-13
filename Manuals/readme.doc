@@ -1,0 +1,637 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times};}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f36\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f91\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times};}{\f92\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times};}
+{\f94\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times};}{\f95\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times};}{\f96\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times};}
+{\f97\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times};}{\f98\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times};}{\f99\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times};}
+{\f111\fmodern\fcharset238\fprq1 Courier New CE;}{\f112\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f114\fmodern\fcharset161\fprq1 Courier New Greek;}{\f115\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f116\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f117\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f118\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f119\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\f451\fswiss\fcharset238\fprq2 Tahoma CE;}{\f452\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f454\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f455\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f456\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}
+{\f457\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f458\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f459\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f460\fswiss\fcharset222\fprq2 Tahoma (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;
+\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;
+\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \styrsid3230018 Normal;}{\*
+\cs10 \additive \ssemihidden Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \fs16 \sbasedon10 \ssemihidden \styrsid15868303 annotation reference;}
+{\s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \ssemihidden \styrsid15868303 annotation text;}{
+\s17\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon16 \snext16 \ssemihidden \styrsid15868303 annotation subject;}{
+\s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f36\fs16\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext18 \ssemihidden \styrsid15868303 Balloon Text;}}{\*\listtable{\list\listtemplateid-395651870
+\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840
+\jclisttab\tx6840\lin6840 }{\listname ;}\listid68769647}{\list\listtemplateid1991387784\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520
+\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid112482551}{\list\listtemplateid971114498\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b\fs24\fbias0 \fi-420\li1500\jclisttab\tx1500\lin1500 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698703\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b\fs24\fbias0 \fi-1080\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers
+\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
+\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listname ;}\listid450440904}{\list\listtemplateid-400517350\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760
+\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }
+{\listname ;}\listid595290114}{\list\listtemplateid112871992\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800
+\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid884758340}{\list\listtemplateid-1253032276{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 
+\fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 
+\fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listname ;}\listid1036807915}{\list\listtemplateid-1253032276
+\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840
+\jclisttab\tx6840\lin6840 }{\listname ;}\listid1084180333}{\list\listtemplateid1955514048\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520
+\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid1268391585}{\list\listtemplateid2018809962{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2
+\levelold\levelspace120\levelindent720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b \fi-720\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat15\levelold\levelspace120\levelindent720{\leveltext
+\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b \fi-720\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent720{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b 
+\fi-720\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent720{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b \fi-720\li2880\lin2880 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1080{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b \fi-1080\li3960\lin3960 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1080{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b \fi-1080\li5040\lin5040 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelold\levelspace120\levelindent1440{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b \fi-1440\li6480\lin6480 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelold\levelspace120\levelindent1440{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b \fi-1440\li7920\lin7920 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelold\levelspace120\levelindent1800{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b \fi-1800\li9720\lin9720 }{\listname ;}\listid1377199714}{\list\listtemplateid-1556605872\listhybrid
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat2\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b\fs24\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b\fs24\fbias0 \fi-1080\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers
+\'01\'03\'05\'07\'09\'0b\'0d;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0\levelindent0{\leveltext\leveltemplateid67698713
+\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levellegal\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listname ;}\listid1415395266}
+{\list\listtemplateid1339593266\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360
+\jclisttab\tx360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listname ;}\listid1473520452}{\list\listtemplateid-1238989962\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960
+\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid1700350305}{\list\listtemplateid616343874\listhybrid
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li766\jclisttab\tx766\lin766 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1486\jclisttab\tx1486\lin1486 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2206\jclisttab\tx2206\lin2206 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2926\jclisttab\tx2926\lin2926 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3646\jclisttab\tx3646\lin3646 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4366\jclisttab\tx4366\lin4366 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li5086\jclisttab\tx5086\lin5086 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5806
+\jclisttab\tx5806\lin5806 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6526\jclisttab\tx6526\lin6526 }
+{\listname ;}\listid1847213336}{\list\listtemplateid-1406352710\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800
+\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid2087190712}}{\*\listoverridetable{\listoverride\listid595290114\listoverridecount0\ls1}{\listoverride\listid884758340\listoverridecount0\ls2}
+{\listoverride\listid1847213336\listoverridecount0\ls3}{\listoverride\listid2087190712\listoverridecount0\ls4}{\listoverride\listid1377199714\listoverridecount0\ls5}{\listoverride\listid1084180333\listoverridecount0\ls6}{\listoverride\listid1036807915
+\listoverridecount0\ls7}{\listoverride\listid1415395266\listoverridecount0\ls8}{\listoverride\listid450440904\listoverridecount0\ls9}{\listoverride\listid112482551\listoverridecount0\ls10}{\listoverride\listid1473520452\listoverridecount0\ls11}
+{\listoverride\listid68769647\listoverridecount0\ls12}{\listoverride\listid1268391585\listoverridecount0\ls13}{\listoverride\listid1700350305\listoverridecount0\ls14}}{\*\revtbl {Unknown;}{Preferred Customer;}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}
+{\*\rsidtbl \rsid331337\rsid339700\rsid469403\rsid1252244\rsid1315158\rsid1843347\rsid1917609\rsid1925124\rsid1926273\rsid2233388\rsid2306341\rsid2361051\rsid2633349\rsid3020289\rsid3022725\rsid3094232\rsid3230018\rsid3356155\rsid3491365\rsid3633002
+\rsid3763305\rsid3873401\rsid3997821\rsid4003475\rsid4144227\rsid4265989\rsid4267982\rsid4530910\rsid5120163\rsid5266954\rsid5335263\rsid5462986\rsid5595778\rsid5727502\rsid5901116\rsid5920228\rsid6113420\rsid6296707\rsid6381109\rsid6557509\rsid6621488
+\rsid6631624\rsid6701332\rsid6884157\rsid6954874\rsid7019120\rsid7031228\rsid7498753\rsid7682028\rsid8087385\rsid8261969\rsid8866567\rsid8873177\rsid9118447\rsid9371878\rsid9395038\rsid9450313\rsid9534669\rsid9790051\rsid10031467\rsid10170925\rsid10226802
+\rsid10758195\rsid10827780\rsid10892678\rsid10947308\rsid10958470\rsid11213664\rsid11487094\rsid11490717\rsid11536920\rsid11821759\rsid12005266\rsid12406450\rsid12521147\rsid12582975\rsid12661441\rsid12724982\rsid12782399\rsid12868990\rsid13000528
+\rsid13042383\rsid13049243\rsid13573154\rsid13782478\rsid13831755\rsid14099426\rsid14290602\rsid14376775\rsid14490033\rsid14552098\rsid14702250\rsid14707005\rsid14824465\rsid14841209\rsid14908483\rsid14959927\rsid15222143\rsid15534405\rsid15745521
+\rsid15868303\rsid16150457\rsid16280482\rsid16522139\rsid16712411\rsid16741985}{\*\generator Microsoft Word 10.0.4219;}{\info{\title Video cards that are unsupported by Command & Conquer Generals under Windows 98 include the following}{\author Amer Ajami}
+{\operator aajami}{\creatim\yr2003\mo8\dy28\hr20\min29}{\revtim\yr2003\mo8\dy28\hr20\min29}{\printim\yr2003\mo8\dy23\hr17\min35}{\version2}{\edmins1}{\nofpages10}{\nofwords3508}{\nofchars19998}{\*\company EA Pacific}{\nofcharsws23460}{\vern16469}}
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1800\dgvorigin1440\dghshow1\dgvshow1
+\jexpand\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct\asianbrkrule\rsidroot4144227 \fet0\sectd 
+\linex0\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
+{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain 
+\qc \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0\pararsid12782399 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\cf1\insrsid8087385 Command & Conquer}{\b\cf1\insrsid6631624 (tm)}{\b\cf1\insrsid8087385  }{
+\b\cf1\insrsid5901116 Generals}{\b\cf1\insrsid6954874  Zero Hour}{\b\cf1\insrsid12782399\charrsid12782399 
+\par }{\cf1\insrsid12782399\charrsid12782399 
+\par }{\b\i\fs40\cf1\insrsid12782399\charrsid12782399 STATUS REPORT FROM THE BATTLEFIELD
+\par }{\cf1\insrsid12782399\charrsid12782399 
+\par }{\b\fs16\ul\insrsid8087385\charrsid8087385 \'a9}{\fs16\cf1\insrsid5901116\charrsid8087385  2}{\fs16\cf1\insrsid5901116 003}{\fs16\cf1\insrsid12782399\charrsid12782399  Electronic Arts Inc. All rights reserved.
+\par }{\cf1\insrsid12782399\charrsid12782399 
+\par 
+\par }{\cf1\insrsid6954874 September 22}{\cf1\insrsid12782399\charrsid13782478 , 2003}{\cf1\insrsid12782399\charrsid12782399 
+\par 
+\par For latest news and updates visit }{\ul\cf1\insrsid12782399\charrsid12782399 GENERALS.EA.COM}{\cf1\insrsid12782399\charrsid12782399 
+\par 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0\pararsid12782399 {\b\cf1\insrsid12782399\charrsid12782399 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0\pararsid16280482 {\fs20\cf1\insrsid16280482\charrsid16741985 
+Thank you for purchasing Command & Conquer Generals(tm) Zero Hour. Please read through this readme to troubleshoot any technical difficulties that you may encounter with the game. Additional tech support information can be found in section 4.1. of this do
+cument.  }{\fs20\cf1\insrsid16280482 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\b\insrsid12782399 
+\par }{\b\insrsid16280482\charrsid12782399 
+\par }{\b\fs20\insrsid4003475\charrsid4003475 1. }{\fs20\ul\insrsid4003475\charrsid4003475 WINDOWS 98/98SE/ME/2000/XP}{\fs20\ul\insrsid4003475 
+\par }{\b\fs20\insrsid4003475 
+\par \tab 1.1. }{\fs20\ul\insrsid4003475\charrsid4003475 Microsoft DirectX}{\fs20\ul\insrsid4003475 
+\par }{\b\fs20\insrsid4003475 
+\par 2. }{\fs20\ul\insrsid4003475 TROUBLE SHOOTING
+\par 
+\par }{\fs20\insrsid4003475 \tab }{\b\fs20\insrsid12724982 2.1.}{\fs20\insrsid12724982  }{\fs20\ul\insrsid12724982 Before You Start}{\b\fs20\insrsid12724982  
+\par }{\b\fs20\insrsid9450313 \tab 2.2. }{\fs20\ul\insrsid9450313 The Minimum System Spec}{\fs20\ul\insrsid9450313\charrsid9450313 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12724982 {\b\fs20\insrsid9450313 2.3}{\b\fs20\insrsid4003475 .}{\fs20\insrsid4003475  }{\fs20\ul\insrsid4003475 Known Video Card Issues
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\fs20\insrsid4003475 \tab }{\b\fs20\insrsid9450313 2.4}{\b\fs20\insrsid4003475 . }{\fs20\ul\insrsid4003475 Known Sound Card Issues}{\fs20\insrsid14702250 
+
+\par \tab }{\b\fs20\insrsid9450313 2.5}{\b\fs20\insrsid14702250 .}{\fs20\insrsid14702250  }{\fs20\ul\insrsid14702250 Virtual Memory Settings}{\fs20\insrsid14702250 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11536920 {\fs20\insrsid14702250 \tab }{\b\fs20\insrsid9450313 2.6}{\b\fs20\insrsid14702250 .}{\fs20\insrsid14702250  }{\fs20\ul\insrsid14702250 AutoPlay
+\par }{\fs20\insrsid3997821 \tab }{\b\fs20\insrsid3997821 2.7.}{\fs20\insrsid3997821  }{\fs20\ul\insrsid3997821 East Asian Font}{\fs20\ul\insrsid3997821\charrsid3997821 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14959927 {\b\fs20\insrsid9450313 2.}{\b\fs20\insrsid3997821 8}{\b\fs20\insrsid14702250\charrsid14702250 .}{\b\fs20\insrsid14702250  }{
+\fs20\ul\insrsid14702250\charrsid14702250 Game Updates and Patches}{\b\fs20\insrsid14702250\charrsid14959927 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3230018 {\b\fs20\insrsid9450313\charrsid16280482 2.}{\b\fs20\insrsid3997821\charrsid16280482 9}{\b\fs20\insrsid14702250\charrsid16280482 .}{
+\fs20\insrsid14702250\charrsid16280482  }{\fs20\ul\insrsid11821759 NETGEAR Firewalls}{\fs20\ul\insrsid14702250\charrsid16280482 
+\par }{\b\fs20\insrsid3763305\charrsid16280482 2.}{\b\fs20\insrsid3997821\charrsid16280482 10}{\b\fs20\insrsid3763305\charrsid16280482 .}{\fs20\insrsid3763305\charrsid16280482  }{\fs20\ul\insrsid11821759 Linksys and Other Firewalls}{\fs20\ul\insrsid3763305 
+
+\par }{\b\fs20\insrsid3763305 2.1}{\b\fs20\insrsid3997821 1}{\b\fs20\insrsid11490717 .}{\fs20\insrsid11490717  }{\fs20\ul\insrsid11490717 Uninstalling
+\par }{\b\fs20\insrsid2633349 2.12.}{\fs20\insrsid2633349  }{\fs20\ul\insrsid2633349 Windows XP Issues}{\fs20\ul\insrsid2633349\charrsid2633349 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\b\insrsid4003475 
+\par }{\b\fs20\insrsid2233388 3.}{\fs20\insrsid2233388  }{\fs20\ul\insrsid2233388 ADVANCED DISPLAY OPTIONS}{\fs20\insrsid2233388 
+\par 
+\par \tab }{\b\fs20\insrsid2233388 3.1.}{\fs20\insrsid2233388  }{\fs20\ul\insrsid2233388\charrsid2233388 Options Explained}{\fs20\ul\insrsid2233388 
+\par }{\fs20\ul\insrsid12868990 
+\par }{\b\fs20\insrsid12868990\charrsid12868990 4.}{\fs20\insrsid12868990\charrsid12868990  }{\fs20\ul\insrsid12868990 OTHER INFO
+\par 
+\par }{\fs20\insrsid12868990\charrsid12868990 \tab }{\b\fs20\insrsid12868990\charrsid12868990 4.1. }{\fs20\ul\insrsid12868990 EA }{\fs20\ul\insrsid14824465 Tech Support}{\fs20\ul\insrsid9118447\charrsid9118447 
+\par }{\fs20\insrsid13831755\charrsid13831755 \tab }{\fs20\ul\insrsid9450313\charrsid9450313 
+\par }{\fs20\ul\insrsid2233388\charrsid2233388 
+\par }{\b\insrsid10827780 
+\par 1. WINDOWS 98/98SE/ME/2000/XP}{\insrsid10827780 
+\par 
+\par \tab }{\b\insrsid10827780\charrsid10827780 1.1. }{\b\insrsid8866567 Microsoft DirectX:}{\b\insrsid10827780 
+\par }{\ul\insrsid8866567 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13049243 {\fs20\insrsid8866567\charrsid8866567 Command & Conquer}{\fs20\insrsid6631624 (tm)}{\fs20\insrsid8866567\charrsid8866567  Generals}{
+\fs20\insrsid13049243  Zero Hour }{\fs20\insrsid8866567\charrsid8866567 is a Microsoft DirectX application. Version 8.1 of Microsoft DirectX is included on the CD and you have the option to install it when }{\fs20\insrsid6884157 Command & Conquer Genera
+ls }{\fs20\insrsid13049243 Zero Hour }{\fs20\insrsid8866567\charrsid8866567 is installed.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8866567 {\fs20\insrsid8866567\charrsid8866567 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\fs20\insrsid8866567\charrsid8866567 
+\par }{\b\insrsid4003475 
+\par 
+\par }{\b\insrsid13573154 2. TROUBLE SHOOTING
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13573154 {\b\insrsid13573154 2.1. }{\b\insrsid12724982 Before You Start}{\b\insrsid8866567 :}{\b\insrsid1925124\charrsid12782399 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\fs20\insrsid1925124\charrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid12782399\charrsid12782399 Before running Command & Conquer Generals}{\fs20\insrsid13049243  Zero Hour}{
+\fs20\insrsid12782399\charrsid12782399 , be su}{\fs20\insrsid11490717 re that you have the latest}{\fs20\insrsid12782399\charrsid12782399  drivers}{\fs20\insrsid1252244  for }{\fs20\insrsid11490717 your video and audio cards }{
+\fs20\insrsid12782399\charrsid12782399 installed onto your PC. You can download the appropriate drivers from your video }{\fs20\insrsid11490717 and audio }{\fs20\insrsid12782399\charrsid12782399 card manufacturer's Web site. }{\fs20\insrsid12782399 
+
+\par }{\fs20\insrsid12724982 
+\par Be sure that you have disabled anti-aliasing in your Windows display properties before ru}{\fs20\insrsid13049243 nning }{\fs20\insrsid6884157 Command & Conquer Generals }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid12724982 . 
+Leaving this feature enabled might conflict with some of the game's effects. 
+\par 
+\par Do not run any other programs in the background, as this may conflict with }{\fs20\insrsid6884157 Command & Conquer Generals }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid12724982 .}{\fs20\insrsid11490717 
+ This includes any virus-protection program that you have running.}{\fs20\insrsid12724982 
+\par }{\fs20\insrsid8873177 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid8873177 {\fs20\insrsid8873177 If you should experience problems running }{\fs20\insrsid6884157 Command & Conquer Generals }{\fs20\insrsid13049243 Zero Hour}{
+\fs20\insrsid8873177  after changing something in the game's Options, you can always revert back to the default settings by deleting the "options.ini" file. If you\rquote re running Windows XP, you can find this file }{\fs20\insrsid4267982 
+by double-clicking "My Computer" icon, opening the "My Documents" folder,}{\fs20\insrsid7031228  and then opening the "Command and}{\fs20\insrsid4267982  Conquer}{\fs20\insrsid13049243  Generals Zero Hour}{\fs20\insrsid8873177  Data" }{
+\fs20\insrsid4267982 directory}{\fs20\insrsid8873177 . }{\fs20\insrsid4267982 
+\par 
+\par }{\fs20\insrsid8873177 If you're running Windows 98, 98SE, ME, or 2000, }{\fs20\insrsid4267982 simply double-click on the "My Documents" folder located on your Windows desktop, and then open the folder named "C}{\fs20\insrsid7031228 ommand and }{
+\fs20\insrsid4267982 C}{\fs20\insrsid7031228 onquer}{\fs20\insrsid4267982  Generals }{\fs20\insrsid13049243 Zero Hour }{\fs20\insrsid4267982 Data." The "options.ini" file will be located in there.}{\fs20\insrsid8873177  
+\par }{\fs20\insrsid6113420 
+\par Do not attempt to install Command & Conquer G
+enerals Zero Hour on a network drive, as the game will not install properly. When installing Command & Conquer Generals Zero Hour, the game will prompt you with a default installation directory. It is highly recommended that you install the game to that d
+efault directory.
+\par }{\fs20\insrsid9450313 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9450313 {\b\insrsid9450313 2.2. The Minimum System Spec:}{\b\insrsid9450313\charrsid12782399 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid9450313 {\fs20\insrsid9450313\charrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid8873177 {\fs20\insrsid3633002 The minimum required system specifications to run Command & Conquer Generals }{\fs20\insrsid11213664 Zero Hour }{
+\fs20\insrsid3633002 is as follows:}{\fs20\insrsid9450313 
+\par }{\fs20\insrsid3633002 
+\par {\listtext\pard\plain\f3\fs20\insrsid11213664\charrsid13049243 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls12
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls12\pnrauth1\pnrdate-965166215\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9
+\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin1080\itap0\pararsid469403 {\b\fs20\insrsid11213664\charrsid13049243 A retail copy of Command & Conquer (tm) Generals}{\b\fs20\insrsid6884157  already installed on your PC}{
+\b\fs20\insrsid11213664\charrsid13049243 
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 OS}{\fs20\insrsid469403 : Windows XP/ME/2000/98 (Windows 95/NT not supported)}{\fs20\insrsid5120163 
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 CPU}{\fs20\insrsid469403 : 800 MHz Intel Pentium }{\fs20\insrsid1917609 III }{\fs20\insrsid469403 or AMD Athlon processor
+
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 RAM}{\fs20\insrsid469403 : 128 MB
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 CD/DVD-Rom Speed}{\fs20\insrsid1917609 : 8}{\fs20\insrsid469403 x
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Hard Drive Space}{\fs20\insrsid11213664 : 1.4}{\fs20\insrsid469403 
+ GB free hard disk space plus space for saved games, Windows swap-file, and DirectX 8.1
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Video}{\fs20\insrsid469403 : }{\fs20\insrsid1917609 
+32 MB AGP video card using the Nvidia GeForce 2, ATI Radeon 7500, or more recent chipset with DirectX 8.1 compatible driver}{\fs20\insrsid469403 
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Sound}{\fs20\insrsid469403 : DirectX 8.1 compatible PCI 16-bit sound card
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Input}{\fs20\insrsid469403 : Keyboard, Mouse
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid469403 {\b\fs20\insrsid469403 
+\par }{\fs20\insrsid469403 Additionally, the following specifications are required for multiplayer:
+\par 
+\par {\listtext\pard\plain\f3\fs20\insrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls13
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls13\pnrauth1\pnrdate-965166215\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9
+\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin1080\itap0\pararsid469403 {\fs20\insrsid469403 256 MB RAM for 3-8 players
+\par {\listtext\pard\plain\f3\fs20\insrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}One set of game discs per player. Disc 1 and Disc 2 cannot be used simultaneously for multiplayer games.
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Internet (2-4 players):}{\fs20\insrsid469403  56Kbps or faster direct Internet connection
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Internet (5-8 players):}{\fs20\insrsid469403  Cable, DSL, or a faster direct Internet connection
+\par {\listtext\pard\plain\f3\fs20\insrsid469403\charrsid469403 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid469403\charrsid469403 Network (2-8 players):}{\fs20\insrsid469403  TCP/IP compliant network
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10758195 {\b\fs20\insrsid10758195 
+\par }{\fs20\insrsid10758195 Recommended system specifications:
+\par 
+\par {\listtext\pard\plain\f3\fs20\insrsid10758195 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls14
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls14\pnrauth1\pnrdate-965166215\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9
+\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin1080\itap0\pararsid10758195 {\b\fs20\insrsid10758195 CPU}{\fs20\insrsid10758195 : 1.8 GHz or faster Intel Pentium}{\fs20\insrsid1917609  IV}{\fs20\insrsid10758195  or AMD}{\fs20\insrsid1917609  Athlon}{
+\fs20\insrsid10758195  processor
+\par {\listtext\pard\plain\f3\fs20\insrsid10758195 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10758195 RAM}{\fs20\insrsid10758195 : 256 MB or more
+\par {\listtext\pard\plain\f3\fs20\insrsid10758195 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10758195 Video}{\fs20\insrsid10758195 : Nvidia GeForce3 or better Direct3D capable video card}{\fs20\insrsid10758195\charrsid10758195 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid469403 {\fs20\insrsid469403 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid5120163 {\fs20\insrsid5120163 Note: Some PCs }{\fs20\insrsid6296707 equipped with the VIA KT133a chipset }{\fs20\insrsid5120163 might encounter problems with}{
+\fs20\insrsid6884157\charrsid6884157  }{\fs20\insrsid6884157 Command & Conquer Generals}{\fs20\insrsid5120163  }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid5120163 .}{\fs20\insrsid5120163\charrsid11490717 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid8873177 
+\par }{\fs20\insrsid12724982 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12724982 {\b\insrsid9450313 2.3}{\b\insrsid12724982 . Known Video Card Issues:}{\b\insrsid12724982\charrsid12724982 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid6557509 {\fs20\insrsid12782399\charrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid11490717 For optimum video performance, we highly recommend that you run }{\fs20\insrsid12782399 Command & Conquer Generals }{
+\fs20\insrsid5920228 Zero Hour }{\fs20\insrsid11490717 with an AGP video card. PCI video cards are generally much slower than AGP cards, and you may experience abnormally slow perfor
+mance and poor graphics with a PCI-based graphics card. Additionally, the video cards listed below are below our minimum supported specs. }{\fs20\insrsid6557509\charrsid12782399 
+\par }\pard \ql \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0\pararsid10947308 {\fs20\insrsid10947308\charrsid12782399 
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls2
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls2\pnrauth1\pnrdate-965166215\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9
+\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin1080\itap0\pararsid10947308 {\fs20\insrsid5920228 3dfx chipsets}{\fs20\insrsid10947308 
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\fs20\insrsid5920228 Nvidia TNT2}{\fs20\insrsid10947308 
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\fs20\insrsid5920228 ATI Radeon Mobility}{\fs20\insrsid10947308 
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\fs20\insrsid5920228 ATI Radeon 7200
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}ATI Rage 128
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}ATI IIC AGP
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}S3 ProSavage
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}S3 Graphics Twister
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}SiS650 Integrated VGA chipsets
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Trident Blade 3D
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Vivid XS
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}VIA Tech graphics controllers
+\par {\listtext\pard\plain\f3\fs20\insrsid5920228 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Quadro4
+\par {\listtext\pard\plain\f3\fs20\insrsid13042383 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\fs20\insrsid13042383 Leadtek Winfast GeForce 2 GTA
+\par {\listtext\pard\plain\f3\fs20\insrsid13042383 \loch\af3\dbch\af0\hich\f3 \'b7\tab}SiS Xabre
+\par {\listtext\pard\plain\f3\fs20\insrsid13042383 \loch\af3\dbch\af0\hich\f3 \'b7\tab}Gainward Xabre
+\par {\listtext\pard\plain\f3\fs20\insrsid11487094 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\fs20\insrsid11487094 Intel Extreme Graphics2 82865/G
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10947308 {\fs20\insrsid6557509 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid5920228 If you attempt to run }{\fs20\insrsid6884157 Command & Conquer Generals }{\fs20\insrsid5920228 
+Zero Hour with any of the video cards listed above, you may encounter a \'93Serious Error\'94 message. }{\fs20\insrsid12782399 Additionally, }{\fs20\insrsid6557509 S}{\fs20\insrsid10947308 ome Nvidia GeForce 2 MX owners may experience }{
+\fs20\insrsid10892678 some stuttering problems during movies. }{\fs20\insrsid6557509 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12782399 {\fs20\insrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid6557509 If you attempt to run }{\fs20\insrsid5920228 Zero Hour }{\fs20\insrsid6557509 
+at 1600x1200 with a 32MB Nvidia GeForce 2 video card, the game may crash to the desktop. If this happens, try reducing the game's resolution.
+\par }{\fs20\insrsid11487094 
+\par On some computers, supported ATI video cards will cause occasional graphics artifacts to appear onscreen briefly. Make sure that you have the latest drivers installed.
+\par }{\fs20\insrsid3873401 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid3873401 {\fs20\insrsid3873401\charrsid7498753 
+If you are running under Windows 98, have an ATI Radeon 9200 video card installed, and are experiencing random crashes, add a \'93-noshaders\'94 command line to your Command & Conquer Generals Zero Hour shortcut. To do so, right-click on the \'93
+Command & Conquer Generals Zero Hour\'94 icon on your Windows Desktop, choose \'93Properties\'94, and add \endash noshaders to the end of the path in the \'93Target\'94 field. If you installed the game to the default directory, the comman
+d line should like this: "C:\\Program Files\\EA Games\\Command & Conquer Generals Zero Hour\\generals.exe\'94 -noshaders}{\fs20\insrsid3873401\charrsid3873401 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12782399 {\fs20\insrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid6557509 
+Under all resolutions, you may experience that some objects like trees, walls, and pillars will flicker briefly. If this happens, saving and reloading your game will resolve the issue.}{\fs20\insrsid1925124 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14707005 {\fs20\insrsid10170925 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13573154 {\b\insrsid9450313 2.4}{\b\insrsid13573154 . }{\b\insrsid10170925\charrsid1925124 Known }{\b\insrsid8866567 Sound Card Issues:}{
+\b\insrsid10170925\charrsid1925124 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14707005 {\fs20\insrsid10170925 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid12782399\charrsid12782399 Before running Command & Conquer Generals}{\fs20\insrsid13049243  Zero Hour}{
+\fs20\insrsid12782399\charrsid12782399 , be sure that you have your }{\fs20\insrsid12782399 sound}{\fs20\insrsid12782399\charrsid12782399  card's latest drivers installed onto your PC. You can download the appropriate }{\fs20\insrsid12782399 
+audio drivers from your sound}{\fs20\insrsid12782399\charrsid12782399  card manufacturer's Web site. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14707005 {\fs20\insrsid12782399 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13573154 {\fs20\insrsid6884157\charrsid12782399 Command & Conquer Generals}{\fs20\insrsid6884157  }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid10170925 
+ does not support any ISA sound cards. If you own an ISA sound card, you will experience stuttering or dropped sound effects as well as frequent pauses during gameplay. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14707005 {\fs20\insrsid14490033 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3491365 {\fs20\insrsid13573154 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8873177 {\b\insrsid8866567 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8866567 {\b\insrsid9450313 2.5}{\b\insrsid8866567 . Virtual Memory Settings:}{\b\insrsid8866567\charrsid1925124 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13573154 {\fs20\insrsid8866567\charrsid8261969 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13049243 {\fs20\insrsid8261969\charrsid8261969 Command & Conquer Generals}{\fs20\insrsid8261969  }{\fs20\insrsid13049243 Zero Hour }{
+\fs20\insrsid8261969\charrsid8261969 may need to use more RAM than is present on your system. Windows }{\fs20\insrsid8261969 will automatically take}{\fs20\insrsid8261969\charrsid8261969  care of this by using what is known as "Virtual Memory}{
+\fs20\insrsid8261969 ,}{\fs20\insrsid8261969\charrsid8261969 " which uses space on your hard disk to simulate the memory it needs and swaps data back and forth from your hard disk as required. }{\fs20\insrsid1252244 
+Ensure that the maximum setting is at least 512MB.}{\fs20\insrsid8261969\charrsid8261969 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13573154 {\b\insrsid8261969 
+\par }{\b\insrsid8873177 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8866567 {\b\insrsid9450313 2.6}{\b\insrsid8866567 . AutoPlay:}{\b\insrsid8866567\charrsid1925124 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13573154 {\fs20\insrsid8866567\charrsid8261969 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid3491365 {\fs20\insrsid3491365 If the Command & Conquer Generals }{\fs20\insrsid13049243 Zero Hour \'93Disc 1\'94 }{\fs20\insrsid8261969\charrsid8261969 
+CD does not AutoPlay when inserted in the drive, you may have this feature disabled. To }{\fs20\insrsid8261969 enable AutoPlay, }{\fs20\insrsid6621488 please consult your Windows user manual.}{\fs20\insrsid8261969 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid8261969 {\fs20\insrsid8261969 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid16712411 {\fs20\insrsid8261969 If you are running Windows XP, }{\fs20\insrsid11536920 
+AutoPlay should be always enabled. You can customize your AutoPlay options by opening "My Computer," and right clicking on your CD-ROM or DVD Drive icon and choosing "Properties," and then selecting the "AutoPlay" tab.}{\fs20\insrsid16712411  }{
+\fs20\insrsid339700 If AutoPlay}{\fs20\insrsid8873177  }{\fs20\insrsid3356155 doesn't work properly, }{\fs20\insrsid6621488 please consult your Windows XP user manual.}{\fs20\insrsid8873177 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11536920 {\fs20\insrsid3997821 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3997821 {\b\insrsid3997821 2.7. East Asian Fonts:
+\par }{\fs20\insrsid3997821\charrsid12724982 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid3997821 {\fs20\insrsid13000528 All players who use a Western version of Windows will see boxes in place of Asian text in the Command & Conquer Generals }{
+\fs20\insrsid13049243 Zero Hour }{\fs20\insrsid13000528 online lobby. If you are running Windows XP, you can inst
+all the Asian language font pack by opening your Control Panel in Windows, double-clicking on the "Regional and Language Options" icon, selecting the "Languages" tab, and checking the "Install files for East Asian Languages" box. }{\fs20\insrsid3094232 
+You will be asked for your Windows XP CD, and you will need to restart your PC. Once this process has been done, be sure that the "Asian Text" option has been selected under your "Persona" scre}{\fs20\insrsid13049243 en in }{\fs20\insrsid6884157 
+Command & Conquer Generals }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid3094232 '}{\fs20\insrsid13049243 s}{\fs20\insrsid3094232  "Online" menu.}{\fs20\insrsid3997821\charrsid12724982 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11536920 {\fs20\insrsid3997821\charrsid11536920 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12724982 {\b\insrsid8866567 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8866567 {\b\insrsid9450313 2.}{\b\insrsid3997821 8}{\b\insrsid8866567 . Game Updates and Patches:
+\par }{\fs20\insrsid12724982\charrsid12724982 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid12724982 {\fs20\insrsid12724982 Command & Conquer Generals }{\fs20\insrsid5920228 Zero Hour }{\fs20\insrsid12724982 
+contains an auto-update feature that will automatically let you know when new patches and updates are available to you. When an update to the game is available, you will be prompted to download and install it when you click on "Multiplayer"}{
+\fs20\insrsid5920228  and then \'93Online\'94}{\fs20\insrsid12724982  from the game's main menu. If you don't intend to play }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid12724982  online, but still wish to download the latest updates, }{
+\fs20\insrsid12868990 you can either log}{\fs20\insrsid12724982  onto the official }{\fs20\insrsid13049243 Command & Conquer }{\fs20\insrsid12724982 Genera}{\fs20\insrsid12868990 ls Web site at general
+s.ea.com or choose the "Check for Updates" option from the}{\fs20\insrsid6884157\charrsid6884157  }{\fs20\insrsid6884157 Command & Conquer Generals}{\fs20\insrsid12868990  }{\fs20\insrsid5920228 Zero Hour }{\fs20\insrsid12868990 AutoRun feature. }{
+\fs20\insrsid12724982\charrsid12724982 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2233388 {\b\insrsid8866567 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12782399 {\fs20\insrsid6701332 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3230018 {\b\insrsid9450313\charrsid16280482 2.}{\b\insrsid3997821\charrsid16280482 9}{\b\insrsid8866567\charrsid16280482 . }{\b\insrsid11821759 
+NETGEAR Firewalls}{\b\insrsid8866567\charrsid16280482 :}{\b\insrsid3230018\charrsid16280482 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12782399 {\fs20\insrsid6701332\charrsid16280482 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid3230018 {\fs20\insrsid3230018\charrsid16280482 If you are running a }{\fs20\insrsid10031467\charrsid16280482 NETGEAR firewall}{
+\fs20\insrsid3230018\charrsid16280482  and are unable to connect to other players while in the Command & Conquer Generals }{\fs20\insrsid6884157\charrsid16280482 Zero Hour }{\fs20\insrsid3230018\charrsid16280482 multiplayer lobby, check the }{
+\fs20\insrsid10031467\charrsid16280482 \'93}{\fs20\insrsid3230018\charrsid16280482 Send Delay}{\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid3230018\charrsid16280482  box under the }{\fs20\insrsid10031467\charrsid16280482 \'93}{
+\fs20\insrsid3230018\charrsid16280482 Network Options}{\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid3230018\charrsid16280482  portion of the game's }{\fs20\insrsid10031467\charrsid16280482 \'93}{\fs20\insrsid3230018\charrsid16280482 Options}{
+\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid3230018\charrsid16280482  menu.}{\fs20\insrsid6381109\charrsid16280482  }{\fs20\insrsid6701332\charrsid16280482 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid12782399 {\fs20\insrsid6701332\charrsid16280482 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid6381109 {\fs20\insrsid6701332\charrsid16280482 If you have made changes to your firewall config
+uration since the last time that you played Command & Conquer Generals }{\fs20\insrsid6884157\charrsid16280482 Zero Hour }{\fs20\insrsid6701332\charrsid16280482 online and are experiencing connection difficulties, click }{
+\fs20\insrsid6381109\charrsid16280482 the }{\fs20\insrsid10031467\charrsid16280482 \'93}{\fs20\insrsid6381109\charrsid16280482 Refresh NAT}{\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid6381109\charrsid16280482  box under the }{
+\fs20\insrsid10031467\charrsid16280482 \'93}{\fs20\insrsid6381109\charrsid16280482 Network Options}{\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid16280482\charrsid16280482  portion}{\fs20\insrsid6381109\charrsid16280482  of the game's }{
+\fs20\insrsid10031467\charrsid16280482 \'93}{\fs20\insrsid6381109\charrsid16280482 Option}{\fs20\insrsid10031467\charrsid16280482 \'94}{\fs20\insrsid6381109\charrsid16280482  menu. It is highly recommended that
+ you click this box every time you change your Internet or firewall settings. }{\fs20\insrsid6701332\charrsid16280482 
+\par }{\fs20\insrsid15745521 
+\par }{\fs20\insrsid11487094 If you are running Windows XP and are having trouble connecting to other players online, check to make sure that your Windows XP firewall setting isn\rquote t turned on. Windows XP de
+faults this setting to on. To check this setting, open your}{\fs20\insrsid10226802  Windows\rquote }{\fs20\insrsid11487094  \'93Control Panel}{\fs20\insrsid10226802 \'94 and double-click on the \'93Network Connections\'94
+ icon. Right-click on your active connection, choose \'93Properties\'94 from the menu, and then click on the \'93Advanced\'94 tab.  Make sure that the box underneath \'93Internet Connection Firewall\'94, which is labeled \'93
+Protect my computer and network\'85\'94 is unchecked.}{\fs20\insrsid11487094 
+\par }{\fs20\insrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid16280482 
+If your firewall does not allow outgoing packets to open ports to incoming traffic, or you experience problems connecting to othe
+r players, you will have to specify which port you want Command & Conquer Generals Zero Hour to use for communicating with other players.\~ You can specify that port in the \'93Firewall Port Override\'94 field under the \'93Network Options\'94
+ portion of the game\rquote s \'93Options\'94 menu.
+\par \~}{\fs20\cf0\revised\revauth1\revdttm-965166203\insrsid11821759\charrsid16280482 
+\par }{\fs20\insrsid11821759\charrsid16280482 You will need to open the chosen port in your firewall for communication with players external to your firewall or NAT device.\~
+ If you use the port override feature, the port you have chosen can not be masqueraded by a NAT device.
+\par 
+\par The game will need to talk to external servers that use the following port numbers.\~ These ports need to be open in your firewall in order to play on Generals Zero Hour Online:
+\par \~
+\par TCP ports:
+\par 80, 6667, 28910, 29900, 29920
+\par \~
+\par UDP ports:
+\par 4321, 27900
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid6381109 {\fs20\insrsid11821759\charrsid16280482 
+\par }{\fs20\insrsid15745521 
+\par }{\fs20\insrsid10226802\charrsid16280482 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid15745521 {\b\insrsid15745521\charrsid16280482 2.}{\b\insrsid3997821\charrsid16280482 10}{\b\insrsid15745521\charrsid16280482 . }{\b\insrsid11821759 Li
+nksys and Other Firewalls:}{\b\insrsid15745521\charrsid16280482 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid15745521\charrsid16280482 \~}{\fs20\insrsid11821759\charrsid11821759 
+\par While many people will be able to play Command & Conquer Generals Zero Hour online without maki}{\fs20\insrsid11821759 ng any changes to their router/f}{\fs20\insrsid11821759\charrsid11821759 irewall}{\fs20\insrsid11821759 ,}{
+\fs20\insrsid11821759\charrsid11821759  there are instances when some configuration may be necessary.
+\par 
+\par Read the following section to learn how to setup your SMC Wireless Router or Linksys Router to play Command & Conquer Generals Zero Hour online. For other routers, a basic overview is provided at the end of the section.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 To set up a SMC Model# SMC7004VWBR Wireless Barricade Router:
+\par }{\fs20\insrsid11821759\charrsid11821759 
+\par These instructions show how to set up your SMC Wireless Router to open ports in your firewall so that Command & Conquer Generals Zero Hour can create or connect to an online game.
+\par 
+\par NOTE: This configuration is intended only for people experiencing connectio
+n problems from behind a SMC SMC7004VWBR Wireless Barricade Router/Firewall. Other SMC Routers may or may not work with similar setups. Before you attempt to configure your router please visit www.smc.com and download the latest firmware update.
+\par 
+\par 1. To acc
+ess the SMC Wireless Barricade's management interface, open your web browser (Microsoft Internet Explorer, Netscape Navigator, etc.). In the address box enter http://192.168.2.1 which is the default address for the SMC7004VWBR Wireless Router. Then click 
+}{\fs20\insrsid11821759 \'93Login\'94}{\fs20\insrsid11821759\charrsid11821759 . (By default there is no password.) 
+\par 
+\par NOTE: If you changed the router's IP address or specified a password, then enter the new address in your web browser and specified password at the login screen. For more information, please consult your SMC User's Guide.
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 2. At the home page of the SMC management interface, click }{\fs20\insrsid11821759 \'93Advanced Setup\'94}{
+\fs20\insrsid11821759\charrsid11821759 .
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par 3. On the left hand side of the }{\fs20\insrsid11821759 \'93Advanced Setup\'94}{\fs20\insrsid11821759\charrsid11821759  screen click on }{\fs20\insrsid11821759 \'93}{\fs20\insrsid11821759\charrsid11821759 NAT}{\fs20\insrsid11821759 \'94}{
+\fs20\insrsid11821759\charrsid11821759  and then select }{\fs20\insrsid11821759 \'93Special Application\'94 }{\fs20\insrsid11821759\charrsid11821759 from the sub menu.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 4. On the }{\fs20\insrsid11821759 \'93Special Application\'94}{\fs20\insrsid11821759\charrsid11821759  screen
+ you will need to set up an individual rule for each computer connected to your Router/Firewall to be used while playing Command & Conquer Generals Zero Hour online. For each computer define the following settings.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\b\fs20\insrsid11821759\charrsid11821759 TRIGGER PORT}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Enter a port number that i
+s used to initiate the connection. Do not use a standard port. For example, you can use 27901 for the first computer and 27902 for the second and so on. The trigger port must be unique for each computer.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 TRIGGER TYPE}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Select UDP, the protocol used by the game.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 PUBLIC PORT}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Enter the same port number here that you entered in the Trigger Port field for each computer.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 PUBLIC TYPE}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Select UDP, the protocol used by the game.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 ENABLED}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Check this box to enable the settings you entered for each computer.
+\par 
+\par NOTE: Write down each port number used in step 4. You'll need to know this for step 6.
+\par 
+\par 5. Repeat step 4 for each computer connected to your Router/Firewall that is used to play Command & Conquer Generals Zero Hour online. To finish click }{\fs20\insrsid11821759 \'93Apply\'94}{\fs20\insrsid11821759\charrsid11821759  and then close
+ your web browser.
+\par 
+\par 6. Now you must tell the game what port to use. Start Command & Conquer Generals Zero Hour on each computer. At the Main Menu select }{\fs20\insrsid11821759 \'93Options\'94}{\fs20\insrsid11821759\charrsid11821759 . At the bottom of the }{
+\fs20\insrsid11821759 \'93Options\'94}{\fs20\insrsid11821759\charrsid11821759  screen under }{\fs20\insrsid11821759 \'93Network Options\'94}{\fs20\insrsid11821759\charrsid11821759  look for }{\fs20\insrsid11821759 \'93Firewall Port Override\'94}{
+\fs20\insrsid11821759\charrsid11821759 . In the dialog box type a port number that matches one of the port numbers entered in step 4. Then, on the same screen click }{\fs20\insrsid11821759 \'93Refresh NAT\'94}{\fs20\insrsid11821759\charrsid11821759 
+. Click }{\fs20\insrsid11821759 \'93Accept\'94}{\fs20\insrsid11821759\charrsid11821759  to apply your settings and exit the }{\fs20\insrsid11821759 \'93Options\'94}{\fs20\insrsid11821759\charrsid11821759  screen.
+\par 
+\par 7. Repeat step 6 for each computer connected to your Router/Firewall that is being used to play Command & Conquer Generals Zero Hour online. Again, each computer must use a unique port number that matches one used in step 4.
+\par 
+\par 8. You are now ready to play Command & Conquer Generals Zero Hour online.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 To set up a Linksys Model# BEFSR11 or BEFSR41 Router
+\par }{\fs20\insrsid11821759\charrsid11821759 
+\par These instructions show how to set up your Linksys Router to open ports in your firewall so that Command & Conquer Generals Zero Hour can create or connect to an online game.
+\par 
+\par NOTE: This configuration is intended only for people experiencing connection problems from behind a Linksys BEFSR11 or BEFSR41 Router/Firewall. Other Linksys Routers may or may not work with similar setups. Before you attempt to configur
+e your router please visit www.linksys.com and download the latest firmware update.
+\par 
+\par 1. To access the web based utility of your Linksys Router, open your web browser (Microsoft Internet Explorer, Netscape Navigator, etc.). In the address box enter http://1
+92.168.1.1 which is the default address for the Linksys BEFSR11/BEFSR41 Router. A password request page window will pop up. Leave the user name blank and enter admin (all lower case, no capitol letters) in the password field. Then, click }{
+\fs20\insrsid11821759 \'93}{\fs20\insrsid11821759\charrsid11821759 OK}{\fs20\insrsid11821759 \'94}{\fs20\insrsid11821759\charrsid11821759 .
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 NOTE: If yo
+u changed the routers IP address, or specified a user name or new password, then enter the new IP address in your web browser and/or enter the specified user name and new password}{\fs20\insrsid11821759  at the password request }{
+\fs20\insrsid11821759\charrsid11821759 window. For more information, consult your Linksys User's Guide.
+\par 
+\par 2. From the main setup page click on the }{\fs20\insrsid11821759 \'93Advanced\'94}{\fs20\insrsid11821759\charrsid11821759  tab, then the }{\fs20\insrsid11821759 \'93Forwarding\'94}{\fs20\insrsid11821759\charrsid11821759 
+ tab and finally at the bottom of the screen click on }{\fs20\insrsid11821759 \'93Port Triggering\'94}{\fs20\insrsid11821759\charrsid11821759 .
+\par 
+\par 3. On the }{\fs20\insrsid11821759 \'93Port Triggering\'94}{\fs20\insrsid11821759\charrsid11821759  screen you will need to set up an individual rule for each com
+puter connected to your Router/Firewall to be used while playing Command & Conquer Generals Zero Hour online. For each computer define the following settings.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\b\fs20\insrsid11821759\charrsid11821759 APPLICATION NAME}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 
+Enter the name of the connection. It can be anything: Generals1, Generals2, etc.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 TRIGGER PORT RANGE}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 
+Enter a port number that is used to initiate the connection. Do not use a standard port. For example, you can use 27901 for the first computer and 27902 for the second and so on. Be sure to enter the same port number in both fields 
+under this heading. As an example your first computer would be 27901~27901, the second 27902~27902 and so on. The trigger port must be unique for each computer.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 INCOMING PORT RANGE}{\fs20\insrsid11821759 : }{\fs20\insrsid11821759\charrsid11821759 Enter the same port number here that you entered in the Trigger Port Rang
+e field for each computer. Be sure to enter the same port number in both fields under this heading.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 NOTE: Write down each port number used in step 3. You'll need to know this for step 5.
+\par 
+\par 4. Repeat step 3 for each computer connected to your Router/Firewall that is used to play Command & Conquer Generals Zero Hour online. To finish click }{\fs20\insrsid11821759 \'93Apply\'94}{\fs20\insrsid11821759\charrsid11821759 
+ and then close your web browser.
+\par 
+\par 5. Now you must tell the game what port to use. Start Command & Conquer Generals Zero Hour on each computer. At the Main Menu select }{\fs20\insrsid11821759 \'93Options\'94}{\fs20\insrsid11821759\charrsid11821759 . At the bottom of the }{
+\fs20\insrsid11821759 \'93Options\'94}{\fs20\insrsid11821759\charrsid11821759  screen under }{\fs20\insrsid11821759 \'93Network Options\'94}{\fs20\insrsid11821759\charrsid11821759  look for }{\fs20\insrsid11821759 \'93Firewall Port Override\'94}{
+\fs20\insrsid11821759\charrsid11821759 . In the dialog box type a port number that matches one of the port numbers entered in step 3. Then, on the same screen click }{\fs20\insrsid11821759 \'93Refresh}{\fs20\insrsid11821759\charrsid11821759  NAT}{
+\fs20\insrsid11821759 \'94}{\fs20\insrsid11821759\charrsid11821759 . Click }{\fs20\insrsid11821759 \'93Accept\'94}{\fs20\insrsid11821759\charrsid11821759  to apply your settings and exit the }{\fs20\insrsid11821759 \'93Options\'94}{
+\fs20\insrsid11821759\charrsid11821759  screen.
+\par 
+\par 6. Repeat step 5 for each computer connected to your Router/Firewall that is being used to play Command & Conquer Generals Zero Hour online. Again, each computer must use a unique port number that matches one used in step 3.
+\par 
+\par 7. You are now ready to play Command & Conquer Generals Zero Hour online.
+\par 
+\par }{\b\fs20\insrsid11821759\charrsid11821759 Other Routers
+\par }{\fs20\insrsid11821759\charrsid11821759 
+\par If you own a different brand of router, try to apply the settings
+ listed above in similar areas or your router configuration. While different routers may use different terminologies you basically want to specify the same port for the outgoing and incoming packets and set the game to use the same port as well.
+\par 
+\par NOTE: Bef
+ore applying any changes to your router configuration, review the documentation that came with the router. Also note that making any changes to your router could have adverse effects on your current network configuration if done improperly. It's generally
+ a good idea to record your current settings before making any changes.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11821759 {\fs20\insrsid11821759\charrsid11821759 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11821759 {\fs20\insrsid9395038 
+For more information regarding setting up a proper firewall, please refer to the Command & Conquer Generals Zero Hour Install Guide.}{\fs20\insrsid11490717 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid6381109 {\fs20\insrsid9395038 
+\par 
+\par }{\b\insrsid15745521 2.1}{\b\insrsid3997821 1}{\b\insrsid11490717\charrsid11490717 . }{\b\insrsid11490717 Uninstalling:}{\insrsid11490717 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11490717 {\insrsid11490717 \tab }{\fs20\insrsid11490717 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11490717 {\fs20\insrsid11490717 If you encounter any problems reinstalling Command & Conquer Generals }{\fs20\insrsid5920228 Zero Hour }{\fs20\insrsid11490717 
+after the game has been uninstalled, insert the first }{\fs20\insrsid5266954 game }{\fs20\insrsid11490717 
+disk into your CD-ROM drive, choose "Install" from the splash screen, and then select the "Repair" option. Once this process has been completed, install the game once again.
+\par }{\fs20\insrsid2633349 
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2633349 {\b\insrsid2633349 2.12}{\b\insrsid2633349\charrsid11490717 . }{\b\insrsid2633349 Windows XP Issues:}{\insrsid2633349 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2633349 {\insrsid2633349 \tab }{\fs20\insrsid2633349 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid2633349 {\fs20\insrsid2633349 Limited user accounts are not supported by Command & Conquer Generals}{\fs20\insrsid5920228  Zero Hour}{\fs20\insrsid2633349 
+. You must have administrator access to install or uninstall the game. If you are playing under a Limited User account, you must use the Run as Administrator option.
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid11490717 {\fs20\insrsid2633349 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2233388 {\fs20\insrsid2233388 
+\par }{\fs20\insrsid8873177 
+\par }{\fs20\insrsid2233388 
+\par }{\b\insrsid2233388 3. ADVANCED DISPLAY OPTIONS
+\par 
+\par \tab 3.1. }{\b\insrsid10958470 Advanced Options Explained}{\insrsid2233388 
+\par }{\insrsid10958470 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid10958470 {\fs20\insrsid10958470 If you are experiencing slow framerate during gameplay, you can try adjusting one or several of the }{\fs20\insrsid13049243 \'93}{
+\fs20\insrsid10958470 Advanced Display Options}{\fs20\insrsid13049243 \'94}{\fs20\insrsid10958470  under the }{\fs20\insrsid13049243 \'93}{\fs20\insrsid10958470 Options}{\fs20\insrsid13049243 \'94}{\fs20\insrsid10958470  menu in Command & Conquer Generals
+}{\fs20\insrsid13049243  Zero Hour}{\fs20\insrsid10958470 . }{\fs20\insrsid1252244 To access th}{\fs20\insrsid3022725 e}{\fs20\insrsid2361051  }{\fs20\insrsid13049243 \'93}{\fs20\insrsid2361051 Advanced Display Options}{\fs20\insrsid13049243 \'94}{
+\fs20\insrsid2361051 , choose the }{\fs20\insrsid13049243 \'93}{\fs20\insrsid2361051 Custom}{\fs20\insrsid13049243 \'94}{\fs20\insrsid2361051  option from the }{\fs20\insrsid13049243 \'93}{\fs20\insrsid2361051 Detail}{\fs20\insrsid13049243 \'94}{
+\fs20\insrsid2361051  pulldown menu. }{\fs20\insrsid10958470 Turning off }{\fs20\insrsid2361051 the following }{\fs20\insrsid10958470 options will improve game performance.
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls6
+\jclisttab\tx1080\aspalpha\aspnum\faauto\ls6\pnrauth1\pnrdate-965166215\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9
+\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin1080\itap0\pararsid10958470 {\b\fs20\insrsid10958470\charrsid10958470 3D Shadows}{\fs20\insrsid10958470 : This toggles showing the dynamic 3D shadows that units and buildings }{\fs20\insrsid6884157 have }{
+\fs20\insrsid10958470 in the game. 
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 2D Shadows}{\fs20\insrsid10958470 : This toggles showing 2D shadows in the game.
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 Cloud Shadows}{\fs20\insrsid10958470 
+: This toggles the appearance of moving cloud shadows on the ground in the game.
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 Extra Ground Lighting}{\fs20\insrsid10958470 : }{\fs20\insrsid3356155 
+This toggles the appearance of detailed lighting on the ground in the game.}{\fs20\insrsid10958470 
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 Smooth Water Borders}{\fs20\insrsid10958470 :}{\fs20\insrsid11536920  }{\fs20\insrsid3356155 
+This toggles smooth water borders along the shores in the game.}{\fs20\insrsid10958470 
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 Behind Building}{\fs20\insrsid10958470 : This toggles the }{\fs20\insrsid15222143 silhouettes}{
+\fs20\insrsid10958470  of any units that are standing or moving behind structures.
+\par {\listtext\pard\plain\f3\fs20\insrsid10958470\charrsid10958470 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid10958470\charrsid10958470 Show }{\b\fs20\insrsid12521147 Props}{\fs20\insrsid10958470 : This toggles the appearance of }{
+\fs20\insrsid1252244 trees and shrubs that are sc}{\fs20\insrsid10958470 attered throughout the various levels in the game.
+\par {\listtext\pard\plain\f3\fs20\insrsid3356155\charrsid3356155 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid3356155\charrsid3356155 Extra Animations}{\b\fs20\insrsid3020289\charrsid3356155 :}{\b\fs20\insrsid3356155\charrsid3356155  }{
+\fs20\insrsid3356155\charrsid14959927 This toggles extra effects like tree-swaying motions in the game.}{\fs20\insrsid3020289\charrsid3356155 
+\par {\listtext\pard\plain\f3\fs20\insrsid3356155\charrsid14959927 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid3356155\charrsid14959927 Disable Dynamic L}{\b\fs20\insrsid13049243 evel of Detail}{\b\fs20\insrsid3020289\charrsid14959927 :}{
+\b\fs20\insrsid3356155\charrsid14959927  }{\fs20\insrsid3356155\charrsid14959927 This toggles }{\fs20\insrsid14959927\charrsid14959927 the automatic adjustment of the game's detail level. Leave this unchecked for optimum performance.}{
+\fs20\insrsid3020289 
+\par {\listtext\pard\plain\f3\fs20\insrsid13049243 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid13049243 Heat Effects:}{\fs20\insrsid13049243  This toggles heat-distortion visual effects on certain units in the game.}{
+\fs20\insrsid13049243\charrsid14959927 
+\par {\listtext\pard\plain\f3\fs20\insrsid3020289\charrsid3020289 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid3020289\charrsid3020289 Texture Resolution Slider:}{\b\fs20\insrsid3020289  }{\fs20\insrsid3020289 Moving the slider to the left will red
+uce the visual clarity of the textures in the game, but it will also improve performance. }{\b\fs20\insrsid10958470\charrsid3020289 
+\par {\listtext\pard\plain\f3\fs20\insrsid3020289\charrsid3020289 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}{\b\fs20\insrsid3020289\charrsid3020289 Particle Cap Slider}{\b\fs20\insrsid3020289 : }{\fs20\insrsid3020289 
+Moving the slider to the left will reduce the amount of particle effects, like explosions and dust clouds, that appear in the game, but it will also improve performance.}{\b\fs20\insrsid3020289\charrsid3020289 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2233388 {\fs20\insrsid2233388 
+\par }{\fs20\insrsid12406450 
+\par }{\fs20\insrsid13831755 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13831755 {\b\insrsid13831755 4. OTHER INFO
+\par 
+\par \tab 4.1. EA Tech Support}{\b\insrsid5266954 :}{\insrsid13831755 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2233388 {\fs20\insrsid13831755 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13831755 {\fs20\insrsid13831755\charrsid13831755 If you have questions about the program or trouble with Command & Conquer Generals}{\fs20\insrsid13049243 
+ Zero Hour}{\fs20\insrsid13831755\charrsid13831755 , }{\fs20\insrsid12005266 please refer to the user manual. }{\fs20\insrsid13831755\charrsid13831755  }{\fs20\insrsid6884157\charrsid13831755 Command & Conquer Generals}{\fs20\insrsid6884157  }{
+\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid12005266  also}{\fs20\insrsid13831755\charrsid13831755 
+ includes the EA Help file that provides solutions and answers to the most common difficulties and questions about how to properly use this product. It also allows you to send a detailed report of your problem directly to E}{\fs20\insrsid14552098 
+A Technical Support via e-mail}{\fs20\insrsid13831755\charrsid13831755 .
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13831755 {\fs20\insrsid13831755 
+\par }{\b\fs20\insrsid13831755\charrsid13831755 To access the EA Help file:
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13831755 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \ql \fi-360\li1440\ri0\widctlpar\jclisttab\tx1440\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin1440\itap0\pararsid13042383 {
+\fs20\insrsid13831755\charrsid13831755 Start the Windows operating system.}{\fs20\insrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13042383 \hich\af0\dbch\af0\loch\f0 2.\tab}}{\fs20\insrsid13831755\charrsid13042383 Insert the Command & Conquer Generals}{\fs20\insrsid13049243\charrsid13042383  Zero Hour \'93Disc 1\'94 CD}{
+\fs20\insrsid13831755\charrsid13042383  into your}{\fs20\insrsid1252244\charrsid13042383  CD-ROM/DVD-ROM drive. The AutoR}{\fs20\insrsid13831755\charrsid13042383 un menu appears.}{\fs20\insrsid13042383\charrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid1252244\charrsid13042383 \hich\af0\dbch\af0\loch\f0 3.\tab}}{\fs20\insrsid1252244\charrsid13042383 If the AutoR}{\fs20\insrsid13831755\charrsid13042383 un menu does not automatically appear, left-click the
+ "Start" button from the Windows Taskbar and select Run\'85. Type }{\fs20\insrsid5462986\charrsid13042383 "}{\fs20\insrsid13831755\charrsid13042383 D:\\}{\fs20\insrsid5462986\charrsid13042383 autorun.exe"}{\fs20\insrsid13831755\charrsid13042383 
+ in the Run dialog box, then click OK (substitute the correct letter of your CD-ROM/DVD-ROM drive if other than \lquote D:\rquote ).}{\fs20\insrsid13042383\charrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13042383 \hich\af0\dbch\af0\loch\f0 4.\tab}}{\fs20\insrsid13831755\charrsid13042383 Click the }{\fs20\insrsid7031228\charrsid13042383 Help}{\fs20\insrsid1252244\charrsid13042383  button on the AutoR}{
+\fs20\insrsid13831755\charrsid13042383 un menu. EA Help opens.
+\par }\pard \ql \li1080\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0\pararsid13831755 {\fs20\insrsid13831755\charrsid13831755 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid13831755 {\fs20\insrsid13831755\charrsid13831755 
+If you are still experiencing difficulty after utilizing the information in the EA Help file, you can also use it to contact EA Technical Support. EA Help contains a utility that detects your system\rquote s hardware and organizes this in
+formation into a detailed report. This report helps EA Technical Support solve your problem in the quickest possible time. Please note that you will need to have registered your copy of }{\fs20\insrsid6884157\charrsid13831755 Command & Conquer Generals}{
+\fs20\insrsid6884157  }{\fs20\insrsid13049243 Zero Hour}{\fs20\insrsid13831755\charrsid13831755  in order to take advantage of this utility.}{\fs20\insrsid13831755 
+\par }{\fs20\insrsid13831755\charrsid13831755 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13831755 {\b\fs20\insrsid13831755\charrsid13831755 To run the utility:
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13831755 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \ql \fi-360\li1440\ri0\widctlpar\jclisttab\tx1440\aspalpha\aspnum\faauto\ls9\adjustright\rin0\lin1440\itap0\pararsid13042383 {
+\fs20\insrsid13831755\charrsid13831755 Launch the EA Help file.}{\fs20\insrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13042383 \hich\af0\dbch\af0\loch\f0 2.\tab}}{\fs20\insrsid13831755\charrsid13042383 Go to page 2 of the Welcome screen by clicking the small arrow in the bottom corner.}{
+\fs20\insrsid13042383\charrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13042383 \hich\af0\dbch\af0\loch\f0 3.\tab}}{\fs20\insrsid13831755\charrsid13042383 Click the Contact Tech}{\fs20\insrsid7031228\charrsid13042383 nical}{\fs20\insrsid13831755\charrsid13042383 
+ Support button. The utility opens.}{\fs20\insrsid13042383\charrsid13042383 
+\par {\listtext\pard\plain\fs20\insrsid13831755\charrsid13042383 \hich\af0\dbch\af0\loch\f0 4.\tab}}{\fs20\insrsid13831755\charrsid13042383 Click OK to begin detecting your hardware.
+\par }\pard \ql \li1080\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0\pararsid13831755 {\fs20\insrsid13831755\charrsid13831755 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid12005266 {\fs20\insrsid13831755\charrsid13831755 
+When it finishes, you can view the gathered information by looking through the various category tabs. To send this information to EA Technical Support, fill out the blank sections under the User tab including a detailed description of the problem you 
+are experiencing and click Send (if you have an open Internet connection) or Save Info (if you wish to }{\fs20\insrsid14552098 e}{\fs20\insrsid13831755\charrsid13831755 
+-mail the file manually). A copy of the report is automatically saved to your Windows desktop.}{\fs20\insrsid12005266 
+\par }{\fs20\insrsid9118447 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1315158 {\fs20\insrsid12406450\charrsid13831755 
+\par }}
